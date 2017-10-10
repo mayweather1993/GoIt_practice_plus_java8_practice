@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/projects/goit_offlines" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/projects/short_code_examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/projects/java8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/projects/java8/venkat_subramaniam_java8" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
